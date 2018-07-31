@@ -1,0 +1,8 @@
+{
+    "name": "com.e7.google-sheets-unity",
+    "author": "Sirawat Pitaksarit (5argon) - Exceed7 Experiments",
+    "displayName": "Google Sheets Unity",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Get data from your private Google Sheets to Unity!! (Read-only)"
+}
